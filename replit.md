@@ -1,6 +1,6 @@
 # Overview
 
-This is a minimal Astro web application starter project. Astro is a modern static site generator that focuses on shipping less JavaScript to the browser while supporting multiple UI frameworks. The project is currently in its initial state with basic scaffolding and no custom features implemented yet.
+This is a minimal Astro web application starter project configured for the Replit environment. Astro is a modern static site generator that focuses on shipping less JavaScript to the browser while supporting multiple UI frameworks. The project is in its initial state with basic scaffolding and ready for development.
 
 # User Preferences
 
